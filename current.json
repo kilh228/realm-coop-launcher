@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\":1,\"release\":\"friends-018\",\"sequence\":1795513935,\"enabled\":true,\"bootstrapPeers\":[{\"host\":\"wap-charcoal.tun.ply.gg\",\"port\":5124}],\"parentSha256\":\"c2bcbd1a0e2f76adcc775faf26b649b227bcc66a155562b319879baa26f912d9\",\"packSha256\":\"dc12edaa5cc18e3adbdd103497cf11ad51dcd15c01e4a8cd0dea5a559d11b210\",\"torrentSha256\":\"f9fe0752d171248ca38c0c1f80c06c11625ae7e5feb22eab6c777fadc854d6eb\",\"expiresAt\":\"2026-12-24T09:52:15.869Z\"}",
-  "signature": "PMyMp8FEcp2x8s3WYudLPkG8TeiDxnBSEHEM2SddFBp07N6g060hcSanCIjpF96i+7nebJjTZKV20UwNv9m3Bw=="
+  "payload": "{\"schema\":1,\"release\":\"friends-019\",\"sequence\":1795517454,\"enabled\":true,\"bootstrapPeers\":[{\"host\":\"wap-charcoal.tun.ply.gg\",\"port\":5124}],\"parentSha256\":\"75502da4def176d9dfa1b3037471d405d361bc041668e3ed494f5bd5c58ef991\",\"packSha256\":\"067a1f80c20129d1d9b3a3cf9251fe7a9c8adb5c2af9b10e89dee8ea7d476947\",\"torrentSha256\":\"4097e709277f602e35c461db17973243ae96e799e85430eb4b6242af742dc9b3\",\"expiresAt\":\"2026-12-24T10:50:54.750Z\"}",
+  "signature": "Bty9Scc1+FBHwUa7j7Agb8x7QRb7Zt1PeyjevBZPse8CohF4fgS7ArEYsaH1/LHKWhv3AiXW8oTrbNoPUQPLBw=="
 }
