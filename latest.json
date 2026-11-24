@@ -1,4 +1,4 @@
 {
-  "payload": "{\"product\":\"realm-coop-launcher\",\"version\":\"0.5.9\",\"file\":\"Realm-Coop-Setup-0.5.9.exe\",\"sequence\":50009,\"size\":148131454,\"sha256\":\"1405b8d2a5ea331c15f13a7c5bf8398370200327c68d54e047e5d42e8228337d\"}",
-  "signature": "xsAwIbZk6AVsPyA+LKvyvC5Ymo+nYcApbcPN1/9+7XWrau38zBHGBztxbb00ZKC7KjTW5/u9TjMJelEMzKREBQ=="
+  "payload": "{\"product\":\"realm-coop-launcher\",\"version\":\"0.5.10\",\"file\":\"Realm-Coop-Setup-0.5.10.exe\",\"sequence\":50010,\"size\":161487969,\"sha256\":\"c398ac9f50416724b1f6920584c418024ab34c6e5b2a399d11cfddf1f0a82345\"}",
+  "signature": "SOrzuyAPd5BL8Z3NDBHsXQvrzBY+5EAVCbs9a3ikgXXg8+oRtFGlHv1UDx5EXWw/AOzwfv+x9MAXA+HP4yI7Bg=="
 }
